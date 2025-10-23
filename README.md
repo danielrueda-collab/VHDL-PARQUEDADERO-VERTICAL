@@ -1,2 +1,2 @@
 # VHDL-PARQUEDADERO-VERTICAL
-Anexo de códigos y diagrama de bloques 
+Anexo de códigos, diagrama de bloques y videos
